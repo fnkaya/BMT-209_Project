@@ -9,7 +9,7 @@ public abstract class DBHelper {
 
     private String url = "jdbc:mysql://localhost:3306/stvs?useUnicode=true&useLegacyDatetimeCode=false&serverTimezone=Turkey";
     private String userName = "root";
-    private String password = "fkaya13";
+    private String password = "123";
 
     static {
         try {
